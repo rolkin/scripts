@@ -7,7 +7,6 @@ These scripts are typically used for keybindings, startup applications, etc.
 
 ## Bug fixes
 
-Please feel free to contact me for any bug fixes
-
+Please feel free to [contact](https://github.com/rolkin/scripts) me for any bug fixes
 
 -----------
