@@ -17,5 +17,5 @@ do
   monitors_off="$monitors_off --output $i --off "
 done
 
-echo "xrandr" $monitors_on $monitors_off
+echo "modified: xrandr" $monitors_on $monitors_off
 xrandr $monitors_on $monitors_off
